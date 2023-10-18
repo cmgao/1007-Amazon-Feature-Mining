@@ -1,4 +1,4 @@
-# DSGA-1007-Capstone
+# NYU-DSGA-1007-Capstone
 Amazon Review Feature Mining
 
 Amazon is the leading ecommerce market for various products. The popularity of the site and the diversity of the products means that many consumers trust reviews to help them choose their product. 
